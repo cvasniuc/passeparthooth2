@@ -1,0 +1,216 @@
+
+/* Class = "UITextField"; placeholder = "Note"; ObjectID = "0Oe-Jn-310"; */
+"0Oe-Jn-310.placeholder" = "Nota";
+
+/* Class = "UITextField"; placeholder = "Note"; ObjectID = "20D-ir-eSV"; */
+"20D-ir-eSV.placeholder" = "Nota";
+
+/* Class = "UITabBarItem"; title = "Contacts"; ObjectID = "3Ns-bt-Vn9"; */
+"3Ns-bt-Vn9.title" = "Contatti";
+
+/* Class = "UILabel"; text = "The action is irreversible"; ObjectID = "3Xl-8Z-OHo"; */
+"3Xl-8Z-OHo.text" = "L'azione è irreversibile";
+
+/* Class = "UIButton"; normalTitle = "Share Card"; ObjectID = "4Tm-sL-W0v"; */
+"4Tm-sL-W0v.normalTitle" = "Condividi card";
+
+/* Class = "UITextField"; placeholder = "Facebook"; ObjectID = "63a-fY-Su2"; */
+"63a-fY-Su2.placeholder" = "Facebook";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "6fR-za-M3S"; */
+"6fR-za-M3S.normalTitle" = "Elimina";
+
+/* Class = "UITextField"; text = "Default "; ObjectID = "6sE-r5-W6Q"; */
+"6sE-r5-W6Q.text" = "Predefinita ";
+
+/* Class = "UILabel"; text = "HOW QUIET!"; ObjectID = "8bv-ca-mRd"; */
+"8bv-ca-mRd.text" = "QUANTA CALMA!";
+
+/* Class = "UITextField"; placeholder = "Web"; ObjectID = "8gi-1l-OoF"; */
+"8gi-1l-OoF.placeholder" = "Web";
+
+/* Class = "UITextField"; placeholder = "Instagram"; ObjectID = "AVb-qc-WO5"; */
+"AVb-qc-WO5.placeholder" = "Instagram";
+
+/* Class = "UILabel"; text = "My Contacts"; ObjectID = "BKg-Sz-xIe"; */
+"BKg-Sz-xIe.text" = "I miei contatti";
+
+/* Class = "UILabel"; text = "My Cards"; ObjectID = "C3e-on-rHI"; */
+"C3e-on-rHI.text" = "Le mie cards";
+
+/* Class = "UITextField"; text = "Default"; ObjectID = "C6U-Ee-DBN"; */
+"C6U-Ee-DBN.text" = "Predefinita";
+
+/* Class = "UITextField"; placeholder = "Instagram"; ObjectID = "CEN-QV-JcQ"; */
+"CEN-QV-JcQ.placeholder" = "Instagram";
+
+/* Class = "UITabBarItem"; title = "My Cards"; ObjectID = "Dvf-wN-b1U"; */
+"Dvf-wN-b1U.title" = "Le mie cards";
+
+/* Class = "UILabel"; text = "HOLD ON!"; ObjectID = "EIr-m7-S9T"; */
+"EIr-m7-S9T.text" = "RESISTI!";
+
+/* Class = "UITabBarItem"; title = "Contacts"; ObjectID = "FaF-Ea-73W"; */
+"FaF-Ea-73W.title" = "Contatti";
+
+/* Class = "UILabel"; text = "Sharing"; ObjectID = "G5f-0M-OsA"; */
+"G5f-0M-OsA.text" = "Condivisione";
+
+/* Class = "UILabel"; text = "LET'S START! "; ObjectID = "Heb-zp-0dI"; */
+"Heb-zp-0dI.text" = "INIZIAMO! ";
+
+/* Class = "UILabel"; text = "View"; ObjectID = "Hg2-Sp-MRk"; */
+"Hg2-Sp-MRk.text" = "Visualizza";
+
+/* Class = "UITextField"; placeholder = "Work number"; ObjectID = "Hou-PF-zWv"; */
+"Hou-PF-zWv.placeholder" = "Numero lavoro";
+
+/* Class = "UILabel"; text = "Remove  the"; ObjectID = "ID5-cf-iCo"; */
+"ID5-cf-iCo.text" = "Elimina la";
+
+/* Class = "UITextField"; placeholder = "Mobile number\n"; ObjectID = "JQ1-ML-z8j"; */
+"JQ1-ML-z8j.placeholder" = "Cellulare\n";
+
+/* Class = "UITabBarItem"; title = "My Cards"; ObjectID = "KYd-uZ-cet"; */
+"KYd-uZ-cet.title" = "Le mie cards";
+
+/* Class = "UITextField"; placeholder = "Web"; ObjectID = "M1A-LH-nse"; */
+"M1A-LH-nse.placeholder" = "Web";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "MCv-DL-9G6"; */
+"MCv-DL-9G6.normalTitle" = "Elimina";
+
+/* Class = "UILabel"; text = "Passepartooth"; ObjectID = "MdV-dT-Zdy"; */
+"MdV-dT-Zdy.text" = "Passepartooth";
+
+/* Class = "UILabel"; text = "Passepartooth"; ObjectID = "MrZ-0H-YwN"; */
+"MrZ-0H-YwN.text" = "Passepartooth";
+
+/* Class = "UILabel"; text = "Contacts"; ObjectID = "Mwa-45-cZR"; */
+"Mwa-45-cZR.text" = "Contatti";
+
+/* Class = "UILabel"; text = "The action is irreversible!"; ObjectID = "NKL-RY-MLR"; */
+"NKL-RY-MLR.text" = "L'azione è irreversibile!";
+
+/* Class = "UITabBarItem"; title = "My Cards"; ObjectID = "Nkw-WA-eiw"; */
+"Nkw-WA-eiw.title" = "Le mie cards";
+
+/* Class = "UITextField"; placeholder = "My Card"; ObjectID = "O0l-iV-fzC"; */
+"O0l-iV-fzC.placeholder" = "Le mie cards";
+
+/* Class = "UITextField"; placeholder = "Facebook"; ObjectID = "OBS-0y-IUv"; */
+"OBS-0y-IUv.placeholder" = "Facebook";
+
+/* Class = "UILabel"; text = "Delete the card?"; ObjectID = "Oc8-ZG-TFk"; */
+"Oc8-ZG-TFk.text" = "Elimina la card?";
+
+/* Class = "UITextField"; placeholder = "Work number"; ObjectID = "Sre-b9-uDF"; */
+"Sre-b9-uDF.placeholder" = "Numero lavoro";
+
+/* Class = "UILabel"; text = "Create a new card"; ObjectID = "TXl-BC-hnW"; */
+"TXl-BC-hnW.text" = "Crea una nuova card";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "UiG-3v-zJy"; */
+"UiG-3v-zJy.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Sharing"; ObjectID = "VG8-O3-MNx"; */
+"VG8-O3-MNx.text" = "Condivisione";
+
+/* Class = "UITextField"; placeholder = "Instagram"; ObjectID = "VZK-eH-pWE"; */
+"VZK-eH-pWE.placeholder" = "Instagram";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "WcS-D8-qDo"; */
+"WcS-D8-qDo.placeholder" = "Cognome";
+
+/* Class = "UITextField"; placeholder = "Work number"; ObjectID = "Zbv-xa-CXI"; */
+"Zbv-xa-CXI.placeholder" = "Numero lavoro";
+
+/* Class = "UILabel"; text = "Passepartooth"; ObjectID = "Zcd-Je-XIS"; */
+"Zcd-Je-XIS.text" = "Passepartooth";
+
+/* Class = "UITextField"; placeholder = "Note"; ObjectID = "a25-sm-Bzz"; */
+"a25-sm-Bzz.placeholder" = "Nota";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "btw-H0-66J"; */
+"btw-H0-66J.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "contact?"; ObjectID = "cHE-Mf-T41"; */
+"cHE-Mf-T41.text" = "contatti?";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "dBM-gV-2xo"; */
+"dBM-gV-2xo.title" = "Home";
+
+/* Class = "UITextField"; placeholder = "Linkedin"; ObjectID = "dv7-r6-5bj"; */
+"dv7-r6-5bj.placeholder" = "Linkedin";
+
+/* Class = "UIButton"; normalTitle = "Save the changes"; ObjectID = "eQ6-Hu-6UF"; */
+"eQ6-Hu-6UF.normalTitle" = "Salva le modifiche";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "fZd-bq-BpD"; */
+"fZd-bq-BpD.placeholder" = "Cognome";
+
+/* Class = "UILabel"; text = "HOLD ON!"; ObjectID = "fcv-UD-ID6"; */
+"fcv-UD-ID6.text" = "RESISTI!";
+
+/* Class = "UITextField"; placeholder = "Facebook"; ObjectID = "gdn-ap-Phg"; */
+"gdn-ap-Phg.placeholder" = "Facebook";
+
+/* Class = "UILabel"; text = "Share the Card"; ObjectID = "hBM-pm-i7W"; */
+"hBM-pm-i7W.text" = "Condividi carta";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "lKV-w0-6Kb"; */
+"lKV-w0-6Kb.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "mZi-QC-LzA"; */
+"mZi-QC-LzA.placeholder" = "Nome";
+
+/* Class = "UITextField"; placeholder = "New Card"; ObjectID = "mgi-42-oRP"; */
+"mgi-42-oRP.placeholder" = "Nuova card";
+
+/* Class = "UILabel"; text = "Change the card"; ObjectID = "n3m-HG-nJo"; */
+"n3m-HG-nJo.text" = "Modifica card";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "nWd-3w-FGy"; */
+"nWd-3w-FGy.placeholder" = "Nome";
+
+/* Class = "UITextField"; placeholder = "Mobile number\n"; ObjectID = "pxy-We-3dV"; */
+"pxy-We-3dV.placeholder" = "Cellulare\n";
+
+/* Class = "UILabel"; text = "My Cards"; ObjectID = "qh4-Xb-Ttc"; */
+"qh4-Xb-Ttc.text" = "Le mie cards";
+
+/* Class = "UIButton"; normalTitle = "Save the changes"; ObjectID = "s2c-1x-yar"; */
+"s2c-1x-yar.normalTitle" = "Salva le modifiche";
+
+/* Class = "UIButton"; normalTitle = "Delete "; ObjectID = "scu-Vn-yJ5"; */
+"scu-Vn-yJ5.normalTitle" = "Elimina";
+
+/* Class = "UITextField"; placeholder = "Mobile number\n"; ObjectID = "tL2-xB-pTB"; */
+"tL2-xB-pTB.placeholder" = "Cellulare\n";
+
+/* Class = "UITextField"; placeholder = "Linkedin"; ObjectID = "tPc-C4-huT"; */
+"tPc-C4-huT.placeholder" = "Linkedin";
+
+/* Class = "UITextField"; placeholder = "Name "; ObjectID = "tSf-vW-J30"; */
+"tSf-vW-J30.placeholder" = "Nome ";
+
+/* Class = "UITextField"; placeholder = "Web"; ObjectID = "vGR-Ie-JZB"; */
+"vGR-Ie-JZB.placeholder" = "Web";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "xeY-5n-zYS"; */
+"xeY-5n-zYS.placeholder" = "Cognome";
+
+/* Class = "UITextField"; placeholder = "My card"; ObjectID = "yK3-mq-7vk"; */
+"yK3-mq-7vk.placeholder" = "Le mie cards";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "yNg-c8-YTK"; */
+"yNg-c8-YTK.normalTitle" = "Condivide";
+
+/* Class = "UITextField"; placeholder = "Linkedin"; ObjectID = "yQn-0u-gLI"; */
+"yQn-0u-gLI.placeholder" = "Linkedin";
+
+/* Class = "UILabel"; text = "We're looking for Cards!"; ObjectID = "zDl-Nu-9y6"; */
+"zDl-Nu-9y6.text" = "Stiamo cercando delle cards!";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "zPt-Ho-Sp5"; */
+"zPt-Ho-Sp5.normalTitle" = "Annulla";

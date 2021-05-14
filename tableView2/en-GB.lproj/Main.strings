@@ -1,0 +1,147 @@
+
+/* Class = "UITextField"; placeholder = "Note"; ObjectID = "0Oe-Jn-310"; */
+"0Oe-Jn-310.placeholder" = "Note";
+
+/* Class = "UITextField"; placeholder = "Web"; ObjectID = "2P5-5R-Lon"; */
+"2P5-5R-Lon.placeholder" = "Web";
+
+/* Class = "UITextField"; text = "Default Card"; ObjectID = "5Ve-cr-6LX"; */
+"5Ve-cr-6LX.text" = "Default Card";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "5XY-sN-tuI"; */
+"5XY-sN-tuI.placeholder" = "Email";
+
+/* Class = "UITextField"; text = "Settings"; ObjectID = "6IB-Wr-GsD"; */
+"6IB-Wr-GsD.text" = "Settings";
+
+/* Class = "UITextField"; placeholder = "Note"; ObjectID = "6qa-ru-P2a"; */
+"6qa-ru-P2a.placeholder" = "Note";
+
+/* Class = "UITextField"; placeholder = "Instagram"; ObjectID = "93d-Dc-JKX"; */
+"93d-Dc-JKX.placeholder" = "Instagram";
+
+/* Class = "UITextField"; text = "Default Card"; ObjectID = "APl-cQ-yRr"; */
+"APl-cQ-yRr.text" = "Default Card";
+
+/* Class = "UILabel"; text = "My Cards"; ObjectID = "BKg-Sz-xIe"; */
+"BKg-Sz-xIe.text" = "My Cards";
+
+/* Class = "UITextField"; text = "Default Card"; ObjectID = "C6U-Ee-DBN"; */
+"C6U-Ee-DBN.text" = "Default Card";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "DFK-BL-nAc"; */
+"DFK-BL-nAc.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Nome"; ObjectID = "Dto-nK-hpd"; */
+"Dto-nK-hpd.placeholder" = "Name";
+
+/* Class = "UITabBarItem"; title = "My Cards"; ObjectID = "Dvf-wN-b1U"; */
+"Dvf-wN-b1U.title" = "My Cards";
+
+/* Class = "UITextField"; placeholder = "Cellulare"; ObjectID = "Dz2-Eh-aAp"; */
+"Dz2-Eh-aAp.placeholder" = "Mobile";
+
+/* Class = "UITextField"; placeholder = "La mia card"; ObjectID = "Fr0-zz-jYQ"; */
+"Fr0-zz-jYQ.placeholder" = "My Cards";
+
+/* Class = "UITextField"; placeholder = "Aggiungi telefono"; ObjectID = "Hou-PF-zWv"; */
+"Hou-PF-zWv.placeholder" = "Add phone";
+
+/* Class = "UITextField"; placeholder = "Cellulare"; ObjectID = "JQ1-ML-z8j"; */
+"JQ1-ML-z8j.placeholder" = "Mobile";
+
+/* Class = "UIButton"; normalTitle = "Aggiungi foto"; ObjectID = "Jjf-u9-un1"; */
+"Jjf-u9-un1.normalTitle" = "Add photo";
+
+/* Class = "UITextField"; placeholder = "Web"; ObjectID = "M1A-LH-nse"; */
+"M1A-LH-nse.placeholder" = "Web";
+
+/* Class = "UIButton"; normalTitle = "Aggiungi foto"; ObjectID = "M87-Ga-OCs"; */
+"M87-Ga-OCs.normalTitle" = "Add photo";
+
+/* Class = "UITextField"; placeholder = "Cellulare"; ObjectID = "PVc-Eo-GaX"; */
+"PVc-Eo-GaX.placeholder" = "Mobile";
+
+/* Class = "UITextField"; placeholder = "Nome"; ObjectID = "Rh3-2g-euG"; */
+"Rh3-2g-euG.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "Linkedin"; ObjectID = "Uyd-7b-usm"; */
+"Uyd-7b-usm.placeholder" = "Linkedin";
+
+/* Class = "UIButton"; normalTitle = "Modifica foto"; ObjectID = "VH0-a2-v7H"; */
+"VH0-a2-v7H.normalTitle" = "Edit photos";
+
+/* Class = "UITextField"; placeholder = "Instagram"; ObjectID = "VZK-eH-pWE"; */
+"VZK-eH-pWE.placeholder" = "Instagram";
+
+/* Class = "UIButton"; normalTitle = "Language"; ObjectID = "WVo-Ty-w9c"; */
+"WVo-Ty-w9c.normalTitle" = "Language";
+
+/* Class = "UITextField"; placeholder = "Facebook"; ObjectID = "b4s-Dc-7hf"; */
+"b4s-Dc-7hf.placeholder" = "Facebook";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "btw-H0-66J"; */
+"btw-H0-66J.placeholder" = "Email";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "dBM-gV-2xo"; */
+"dBM-gV-2xo.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Note"; ObjectID = "e2K-eY-SQM"; */
+"e2K-eY-SQM.placeholder" = "Note";
+
+/* Class = "UITextField"; placeholder = "Facebook"; ObjectID = "gdn-ap-Phg"; */
+"gdn-ap-Phg.placeholder" = "Facebook";
+
+/* Class = "UITextField"; placeholder = "Web"; ObjectID = "idT-yJ-gWP"; */
+"idT-yJ-gWP.placeholder" = "Web";
+
+/* Class = "UITextField"; placeholder = "Cognome"; ObjectID = "k25-Zv-5hg"; */
+"k25-Zv-5hg.placeholder" = "Surname";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "lUV-sY-l5E"; */
+"lUV-sY-l5E.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Privacy"; ObjectID = "mKX-ps-w9W"; */
+"mKX-ps-w9W.normalTitle" = "Privacy";
+
+/* Class = "UITextField"; placeholder = "La mia nuova card"; ObjectID = "mgi-42-oRP"; */
+"mgi-42-oRP.placeholder" = "My new Card";
+
+/* Class = "UILabel"; text = "Activity log"; ObjectID = "naZ-i9-XGM"; */
+"naZ-i9-XGM.text" = "Activity log";
+
+/* Class = "UITextField"; placeholder = "Instagram"; ObjectID = "oHw-NM-RvM"; */
+"oHw-NM-RvM.placeholder" = "Instagram";
+
+/* Class = "UITextField"; placeholder = "Linkedin"; ObjectID = "oOW-6C-a3Z"; */
+"oOW-6C-a3Z.placeholder" = "Linkedin";
+
+/* Class = "UITextField"; placeholder = "La mia nuova card"; ObjectID = "pHs-Mh-Lh0"; */
+"pHs-Mh-Lh0.placeholder" = "My new Card";
+
+/* Class = "UITextField"; text = "La mia nuova card"; ObjectID = "pHs-Mh-Lh0"; */
+"pHs-Mh-Lh0.text" = "My new Card";
+
+/* Class = "UILabel"; text = "My Cards"; ObjectID = "qh4-Xb-Ttc"; */
+"qh4-Xb-Ttc.text" = "My Cards";
+
+/* Class = "UITextField"; placeholder = "Facebook"; ObjectID = "s9q-0z-Y6k"; */
+"s9q-0z-Y6k.placeholder" = "Facebook";
+
+/* Class = "UITextField"; placeholder = "Aggiungi telefono"; ObjectID = "sUj-IF-4HA"; */
+"sUj-IF-4HA.placeholder" = "Add phone number";
+
+/* Class = "UITextField"; placeholder = "Linkedin"; ObjectID = "tPc-C4-huT"; */
+"tPc-C4-huT.placeholder" = "Linkedin";
+
+/* Class = "UITextField"; placeholder = "Nome"; ObjectID = "tSf-vW-J30"; */
+"tSf-vW-J30.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "Aggiungi telefono"; ObjectID = "x4W-fn-UoS"; */
+"x4W-fn-UoS.placeholder" = "Add phone number";
+
+/* Class = "UITextField"; placeholder = "Cognome"; ObjectID = "xeY-5n-zYS"; */
+"xeY-5n-zYS.placeholder" = "Surname";
+
+/* Class = "UITextField"; placeholder = "Cognome"; ObjectID = "ytH-rh-OUr"; */
+"ytH-rh-OUr.placeholder" = "Surname";
