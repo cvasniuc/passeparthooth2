@@ -51,7 +51,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="375" height="114"/>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Passepartooth" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MdV-dT-Zdy">
-                                        <rect key="frame" x="24" y="52" width="211.5" height="38.5"/>
+                                        <rect key="frame" x="24" y="52" width="183" height="33"/>
                                         <fontDescription key="fontDescription" name="OpenSans-ExtraBold" family="Open Sans" pointSize="28"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
@@ -200,7 +200,7 @@
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="The action is irreversible" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3Xl-8Z-OHo">
-                                                        <rect key="frame" x="83" y="84.5" width="184.5" height="20.5"/>
+                                                        <rect key="frame" x="94" y="84.5" width="162.5" height="17.5"/>
                                                         <fontDescription key="fontDescription" name="OpenSans-Bold" family="Open Sans" pointSize="15"/>
                                                         <nil key="textColor"/>
                                                         <nil key="highlightedColor"/>
@@ -427,7 +427,7 @@
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sharing" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G5f-0M-OsA">
-                                        <rect key="frame" x="25" y="58" width="110.5" height="38.5"/>
+                                        <rect key="frame" x="25" y="58" width="96" height="33"/>
                                         <fontDescription key="fontDescription" name="OpenSans-ExtraBold" family="Open Sans" pointSize="28"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
@@ -460,13 +460,13 @@
                                 </constraints>
                             </view>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="HOLD ON!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fcv-UD-ID6">
-                                <rect key="frame" x="26" y="408" width="323" height="67"/>
+                                <rect key="frame" x="26" y="408" width="323" height="57.5"/>
                                 <fontDescription key="fontDescription" name="OpenSans-ExtraBold" family="Open Sans" pointSize="49"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="We're looking for Cards!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zDl-Nu-9y6">
-                                <rect key="frame" x="68" y="493" width="239" height="27.5"/>
+                                <rect key="frame" x="80" y="483.5" width="215" height="23.5"/>
                                 <fontDescription key="fontDescription" name="OpenSans-Bold" family="Open Sans" pointSize="20"/>
                                 <color key="textColor" red="0.015686274510000001" green="0.20000000000000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
@@ -504,7 +504,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="1of-S0-ZpQ">
-                                <rect key="frame" x="0.0" y="197.5" width="375" height="420.5"/>
+                                <rect key="frame" x="0.0" y="193" width="375" height="425"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <color key="sectionIndexBackgroundColor" systemColor="systemBackgroundColor"/>
                                 <prototypes>
@@ -528,7 +528,7 @@
                                         <preferredSymbolConfiguration key="preferredSymbolConfiguration" scale="medium" weight="regular"/>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Contacts" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mwa-45-cZR">
-                                        <rect key="frame" x="24" y="52" width="128" height="38.5"/>
+                                        <rect key="frame" x="24" y="52" width="114" height="33"/>
                                         <fontDescription key="fontDescription" name="OpenSans-ExtraBold" family="Open Sans" pointSize="28"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
@@ -546,7 +546,7 @@
                                 </constraints>
                             </view>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="My Contacts" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BKg-Sz-xIe">
-                                <rect key="frame" x="26" y="139" width="142" height="31.5"/>
+                                <rect key="frame" x="26" y="139" width="131.5" height="27"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <fontDescription key="fontDescription" name="OpenSans-Bold" family="Open Sans" pointSize="23"/>
                                 <nil key="textColor"/>
@@ -635,7 +635,7 @@
                                         <state key="normal" image="Back"/>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Create a new card" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TXl-BC-hnW">
-                                        <rect key="frame" x="68" y="52" width="261" height="38.5"/>
+                                        <rect key="frame" x="68" y="52" width="229" height="33"/>
                                         <fontDescription key="fontDescription" name="OpenSans-ExtraBold" family="Open Sans" pointSize="28"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
@@ -1006,7 +1006,7 @@
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="AdX-Op-awW" userLabel="firstView">
                                                 <rect key="frame" x="0.0" y="0.0" width="365" height="172"/>
                                                 <subviews>
-                                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="My card" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="yK3-mq-7vk">
+                                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="l" placeholder="My card" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="yK3-mq-7vk">
                                                         <rect key="frame" x="8" y="12" width="297" height="40"/>
                                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                                         <constraints>
@@ -1930,7 +1930,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="375" height="114"/>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Passepartooth" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MrZ-0H-YwN">
-                                        <rect key="frame" x="24" y="52" width="211.5" height="38.5"/>
+                                        <rect key="frame" x="24" y="52" width="183" height="33"/>
                                         <fontDescription key="fontDescription" name="OpenSans-ExtraBold" family="Open Sans" pointSize="28"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
@@ -1951,10 +1951,10 @@
                                 <rect key="frame" x="166" y="524" width="43" height="69"/>
                             </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Doggie" translatesAutoresizingMaskIntoConstraints="NO" id="YiB-ik-1SL">
-                                <rect key="frame" x="40" y="153.5" width="295" height="150.5"/>
+                                <rect key="frame" x="40" y="177.5" width="295" height="150.5"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Y0H-Qw-kFo">
-                                <rect key="frame" x="26" y="389" width="323" height="109"/>
+                                <rect key="frame" x="26" y="404.5" width="323" height="93.5"/>
                                 <attributedString key="attributedText">
                                     <fragment content="Here you find a list of all the contacts you have exchanged. Go ahead, run to ">
                                         <attributes>
@@ -1981,7 +1981,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="HOLD ON!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EIr-m7-S9T">
-                                <rect key="frame" x="76" y="324" width="223" height="60"/>
+                                <rect key="frame" x="83" y="348" width="209.5" height="51.5"/>
                                 <fontDescription key="fontDescription" name="OpenSans-ExtraBold" family="Open Sans" pointSize="44"/>
                                 <color key="textColor" red="0.0" green="0.1215686275" blue="0.3921568627" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
