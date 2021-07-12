@@ -4,14 +4,6 @@ Passepartooth iOS mobile app
 MODELLO DI STRUTTURA DEL SISTEMA:
 
 
-
-
-![IMG_1056](https://user-images.githubusercontent.com/87064304/125260437-9ee14280-e300-11eb-86bf-0d96abe32082.PNG)![IMG_1057](https://user-images.githubusercontent.com/87064304/125260446-a1439c80-e300-11eb-8135-b5fa2cde89be.PNG)
-![IMG_1058](https://user-images.githubusercontent.com/87064304/125260450-a274c980-e300-11eb-9c40-9fcda5727f0f.PNG)
-![IMG_1059](https://user-images.githubusercontent.com/87064304/125260454-a30d6000-e300-11eb-8d1b-ba13ef352939.PNG)
-![IMG_1060](https://user-images.githubusercontent.com/87064304/125260457-a3a5f680-e300-11eb-9c96-3c32fdfc278d.PNG)
-
-
 Durante il primo avvio dell’applicazione, l’utente dovrà concedere i permessi di utilizzo di 
 bluetooth.
 L’utente sceglie se accettare o rifiutare
