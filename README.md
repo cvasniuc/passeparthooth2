@@ -94,7 +94,7 @@ L’utente ha la possibilità di fare la scansione della propria Card cartaceo, 
 La scansione viene fatta come una foto solo che ti da la possibilità di tagliare la foto nel modo che sia visibile solo la Card, una volta fatta la scansione della foto l’utente può scegliere se salvarla o rifare la scansione .
 Se l’utente sceglie di salvare la scansione viene aggiunta in automatico alle Card digitale che stava creando.
 
-![](20%/https://user-images.githubusercontent.com/87064304/125260815-fed7e900-e300-11eb-89c3-451ae17a5ee2.PNG)
+![](https://user-images.githubusercontent.com/87064304/125260815-fed7e900-e300-11eb-89c3-451ae17a5ee2.PNG)
 ![IMG_1057](https://user-images.githubusercontent.com/87064304/125260824-00a1ac80-e301-11eb-8285-04e8326d259c.PNG)
 ![IMG_1058](https://user-images.githubusercontent.com/87064304/125260831-013a4300-e301-11eb-8595-d6df0201e356.PNG)
 ![IMG_1060](https://user-images.githubusercontent.com/87064304/125260834-026b7000-e301-11eb-9649-e12d3f0c857d.PNG)
