@@ -98,5 +98,5 @@ Se l’utente sceglie di salvare la scansione viene aggiunta in automatico alle 
 ![IMG_1057](https://user-images.githubusercontent.com/87064304/125260824-00a1ac80-e301-11eb-8285-04e8326d259c.PNG)
 ![IMG_1058](https://user-images.githubusercontent.com/87064304/125260831-013a4300-e301-11eb-8595-d6df0201e356.PNG)
 
-![IMG_1059](https://user-images.githubusercontent.com/87064304/125260837-026b7000-e301-11eb-9264-9454cad5a322.PNG)
+
 
