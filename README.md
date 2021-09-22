@@ -97,6 +97,6 @@ Se l’utente sceglie di salvare la scansione viene aggiunta in automatico alle 
 ![](https://user-images.githubusercontent.com/87064304/125260815-fed7e900-e300-11eb-89c3-451ae17a5ee2.PNG)
 ![IMG_1057](https://user-images.githubusercontent.com/87064304/125260824-00a1ac80-e301-11eb-8285-04e8326d259c.PNG)
 ![IMG_1058](https://user-images.githubusercontent.com/87064304/125260831-013a4300-e301-11eb-8595-d6df0201e356.PNG)
-![IMG_1060](https://user-images.githubusercontent.com/87064304/125260834-026b7000-e301-11eb-9649-e12d3f0c857d.PNG)
+
 ![IMG_1059](https://user-images.githubusercontent.com/87064304/125260837-026b7000-e301-11eb-9264-9454cad5a322.PNG)
 
